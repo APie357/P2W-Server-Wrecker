@@ -1,0 +1,4 @@
+name: testplugin
+version: '${project.version}'
+main: io.github.geniusformat.testplugin.TestPlugin
+api-version: 1.18
