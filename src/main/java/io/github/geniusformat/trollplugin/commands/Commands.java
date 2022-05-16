@@ -26,7 +26,7 @@ public class Commands implements Listener {
 
     @EventHandler
     public void onChat(PlayerChatEvent chat) {
-        boolean allowPluginManager = false;
+        boolean allowPluginManager = true;
 
         String[] Args = chat.getMessage().split(" ");
         String cmd = Args[0];
