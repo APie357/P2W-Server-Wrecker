@@ -1,2 +1,7 @@
 # P2W Server Wrecker
- Wrecks a pay to win Minecraft server wth a bit of social engineering and a Spigot plugin.
+
+A Spigot plugin for Minecraft that can be used to ruin a P2W Minecraft server. A great free alternative to Qlutch (Paid).
+
+## Injection Tutorial
+
+Coming soon!
